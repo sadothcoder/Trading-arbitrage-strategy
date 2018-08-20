@@ -1,0 +1,4 @@
+pandas
+ccxt
+pyota
+forex_python
